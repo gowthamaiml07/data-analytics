@@ -1,0 +1,10 @@
+# Python/Jupyter local files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Temporary build and verification files (not part of the submission)
+work/
+data/*.zip
